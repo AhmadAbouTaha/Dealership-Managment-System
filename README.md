@@ -1,1 +1,1 @@
-#Dealership-Management-System
+This project is a Dealership Management System designed to manage various aspects of a car dealership’s operations. It includes the management of vehicles, customers, salespeople, sales transactions, and maintenance records. The system ensures that all dealership activities are organized efficiently, allowing users to add, view, and manage different entities through a user-friendly graphical interface connected to a relational database. The goal of the project is to simplify dealership workflows and enhance data accuracy across all operations.
